@@ -117,10 +117,6 @@ I am a full-stack developer from Ambala, Haryana, India, focused on turning real
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambhav-007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sambhav-007&theme=algolia&no-frame=true&margin-w=10&margin-h=10" alt="Trophies" />
-</p>
-
 ---
 
 ## Current Focus
