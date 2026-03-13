@@ -1,4 +1,6 @@
-<h1 align="center">Sambhav Sehgal</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&duration=1&pause=10000000&color=06B6D4&center=true&vCenter=true&repeat=false&width=1000&height=120&lines=Sambhav+Sehgal" alt="Sambhav Sehgal" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&duration=2300&pause=700&color=06B6D4&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Product+Builder;AI%2FCV+Explorer;Public+Speaker;Building+real-world+apps+that+ship" alt="Typing Intro" />
